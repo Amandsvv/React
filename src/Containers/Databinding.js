@@ -3,7 +3,7 @@ import React, {useState} from 'react'
 
 function Databinding(){
     const [data, setData] = useState({/*Immutable*/
-        name:"mohan Kumar",
+        name:"Aman Kumar",
         age:25
     })
     const handleChange=(event)=>{
